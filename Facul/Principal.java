@@ -29,6 +29,7 @@ public class Principal {
       }
       if (conta instanceof ContaPoupanca) {
         System.out.printf("Taxa de rendimento: " + ((ContaPoupanca) conta).getTaxaRendimento());
+        System.out.println(" Saldo na conta: " + conta.getSaldo() + " Rentimento: " + ((ContaPoupanca) conta).calculaRendimento());
       }
     }
   }
