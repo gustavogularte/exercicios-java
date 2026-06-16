@@ -24,7 +24,7 @@ public class Desafios {
         if (numero3 == 1) {
             System.out.println("Digite o valor do raio: ");
             int raio = input.nextInt();
-            double areaCirculo = 3.14 * (raio * raio);
+            double areaCirculo = 3.14 * raio * raio;
             System.out.println("Area do Circulo: " + areaCirculo);
         } else if (numero3 == 2) {
             System.out.println("Digite o valor do lado: ");
@@ -40,5 +40,8 @@ public class Desafios {
             fatorial *= i;
         }
         System.out.println(fatorial);
+
+        TabuadaMultiplicacao tabuadaMultiplicacao = new TabuadaMultiplicacao();
+        tabuadaMultiplicacao.mostrarTabuada(2);
     }
 }
