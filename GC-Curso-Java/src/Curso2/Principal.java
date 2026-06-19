@@ -9,12 +9,12 @@ import java.io.IOException;
 
 public class Principal {
     static void main() {
-//        try (FileWriter fileWriter = new FileWriter("arquivo.txt");) {
-//            fileWriter.write("Teste");
-//            System.out.println("Dados gravados com sucesso");
-//        }catch (IOException e) {
-//            e.printStackTrace();
-//        }
+        try (FileWriter fileWriter = new FileWriter("arquivo.txt");) {
+            fileWriter.write("Teste");
+            System.out.println("Dados gravados com sucesso");
+        }catch (IOException e) {
+            e.printStackTrace();
+        }
         Titulo titulo =  new Titulo("Avatar", 2003, 300);
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         String json = gson.toJson(titulo);

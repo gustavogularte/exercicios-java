@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class GoogleBooks {
     static void main() throws IOException, InterruptedException{
         Scanner sc = new Scanner(System.in);
-        String apiKey = "AIzaSyBmr21moBApfkhHCqrghf3gqO3qvXV1TkI";
+        String apiKey = "AIzaymr1mApfHCqrghf3gqO3qvXV1T";
         String url = "https://www.googleapis.com/books/v1/volumes?q=";
 
         System.out.print("Nome do livro: ");
