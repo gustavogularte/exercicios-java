@@ -39,5 +39,17 @@ public class Desafio2 {
         listaPolimorfica.add("Elemento A");
         listaPolimorfica.add("Elemento B");
         System.out.println("LinkedList: " + listaPolimorfica);
+
+        CarrinhoDeCompras p1 = new CarrinhoDeCompras("Teclado", 120, 1);
+        CarrinhoDeCompras p2 = new CarrinhoDeCompras("Mouse", 60, 2);
+
+        List<CarrinhoDeCompras> compras = new ArrayList<>();
+        compras.add(p1);
+        compras.add(p2);
+        double valorTotal = 0;
+        for (CarrinhoDeCompras compra : compras) {
+            valorTotal += compra.valorTotal();
+        }
+        System.out.println(valorTotal);
     }
 }
