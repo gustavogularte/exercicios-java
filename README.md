@@ -17,7 +17,7 @@
 
 Este repositório reúne todos os exercícios desenvolvidos durante a trilha de **Programação Java** da **Alura**, disponibilizada pelo **Geração Caldeira**.
 
-O **Geração Caldeira** é um programa gratuito do **Instituto Caldeira** voltado para a formação de jovens talentos em tecnologia e inovação. A iniciativa conecta estudantes ao mercado por meio de capacitação técnica, desenvolvimento de habilidades profissionais e contato com empresas do ecossistema de inovação. O programa possui foco em empregabilidade e oferece trilhas de formação em áreas como Programação Java, Inteligência Artificial e Dados, Marketing e Design e Gestão Comercial. :contentReference[oaicite:0]{index=0}
+O **Geração Caldeira** é um programa gratuito do **Instituto Caldeira** voltado para a formação de jovens talentos em tecnologia e inovação. A iniciativa conecta estudantes ao mercado por meio de capacitação técnica, desenvolvimento de habilidades profissionais e contato com empresas do ecossistema de inovação. O programa possui foco em empregabilidade e oferece trilhas de formação em áreas como Programação Java, Inteligência Artificial e Dados, Marketing e Design e Gestão Comercial.
 
 Tenho muito orgulho de fazer parte dessa jornada. Fiquei extremamente feliz por **ter sido aprovado no processo seletivo**, podendo continuar evoluindo como desenvolvedor. Participar do Geração Caldeira representa uma oportunidade única de aprendizado, networking e aproximação com o mercado de tecnologia.
 
@@ -58,7 +58,7 @@ Tenho muito orgulho de fazer parte dessa jornada. Fiquei extremamente feliz por 
 
 Este repositório tem como objetivo registrar minha evolução durante a trilha de **Programação Java** da Alura, documentando os exercícios, desafios e projetos realizados ao longo da formação.
 
-Além de servir como registro dos meus estudos, este repositório representa uma etapa importante da minha trajetória profissional, marcada pela aprovação no processo seletivo do **Geração Caldeira** e pela oportunidade de aprender em um programa reconhecido por preparar jovens para o mercado de tecnologia. :contentReference[oaicite:1]{index=1}
+Além de servir como registro dos meus estudos, este repositório representa uma etapa importante da minha trajetória profissional, marcada pela aprovação no processo seletivo do **Geração Caldeira** e pela oportunidade de aprender em um programa reconhecido por preparar jovens para o mercado de tecnologia.
 
 ---
 
